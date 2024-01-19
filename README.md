@@ -1,8 +1,1 @@
-# 3K04_Group39
-
-**Group Members:**<br>
-Andrew Piotrowski<br>
-Jashanjyot Randhawa<br>
-Jack Dodd<br>
-Yue Xu<br>
-Zareen Kabir
+This Python project features an intuitive user interface designed for modifying patient pacemaker settings. It leverages serial communication to establish a real-time connection with the pacemaker device, ensuring seamless interaction and monitoring capabilities for healthcare professionals. The user-friendly interface facilitates efficient adjustment of pacemaker parameters, contributing to enhanced patient care.
