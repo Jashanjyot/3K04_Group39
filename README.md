@@ -45,7 +45,7 @@ Additionally, a Python-based Graphical User Interface (GUI) serves as a Device C
 
 ## Getting Started
 
-1. Clone the repository: `git clone [repository-url]`
+1. Clone the repository
 
 2. Open the Simulink model using MathWorks Simulink.
 
