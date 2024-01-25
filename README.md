@@ -1,6 +1,5 @@
 # Simulink Pacemaker Controller
 
-## Overview
 
 This project focuses on the development of a Simulink-based pacemaker model to regulate the activity of four heart chambers on an NXP FRDM-K64F microcontroller. The pacemaker model implements eight distinct modes of autonomous heartbeat functionality.
 
